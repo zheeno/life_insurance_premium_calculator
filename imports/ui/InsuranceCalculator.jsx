@@ -107,7 +107,7 @@ export default class InsuranceCalculator extends Component {
                       <label className="custom-control-label" for="smokerCheck">Are you a Smoker?</label>
                     </div>
                     {/* amount slider */}
-                    <div className="md-form">
+                    <div className="md-form mt-5">
                       <label for="insAmtSlider" className="mt-2">Insurance Amount
                       &nbsp;
                     <strong>
